@@ -1,7 +1,2 @@
 # crispy-chainsaw
-
-test
-
-test
-
-test
+Github + ClickUp Integration
